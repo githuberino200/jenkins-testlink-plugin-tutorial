@@ -43,9 +43,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/kinow/jenkins-testlink-plugin-tutorial.git</connection>
-		<developerConnection>scm:git:git@github.com:kinow/jenkins-testlink-plugin-the-definitive-guide.git</developerConnection>
-		<url>http://github.com/kinow/jenkins-testlink-plugin-tutorial</url>
+		<connection>scm:git:https://github.com/githuberino200/jenkins-testlink-plugin-tutorial</connection>
+		<developerConnection>scm:git:https://github.com/githuberino200/jenkins-testlink-plugin-tutorial</developerConnection>
+		<url>https://github.com/githuberino200/jenkins-testlink-plugin-tutorial</url>
 	</scm>
 
 	<build>
