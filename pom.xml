@@ -62,7 +62,7 @@
 							<!-- goal>generate-pdf</goal -->
 							<!-- goal>generate-html</goal -->
 							<!-- goal>generate-manpages</goal -->
-							<goal>generate-eclipse</goal>
+							<!-- goal>generate-eclipse</goal -->
 						</goals>
 						<configuration>
 							<draftMode>no</draftMode>
@@ -138,9 +138,9 @@
 											[2.0.16,)
 										</versionRange>
 										<goals>
-											<goal>
+											<!-- goal>
 												generate-eclipse
-											</goal>
+											</goal -->
 											<goal>generate-pdf</goal>
 											<goal>generate-html</goal>
 										</goals>
