@@ -32,7 +32,7 @@ import org.testng.annotations.Test;
  * @author Bruno P. Kinoshita - http://www.kinoshita.eti.br
  * @since 0.3
  */
-public class TestCurrentTime
+public class TestCurrentTime2
 {
 
 	@Test
