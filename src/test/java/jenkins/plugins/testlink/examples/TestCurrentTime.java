@@ -40,7 +40,7 @@ public class TestCurrentTime
 	{
 		Assert.assertNotNull( System.currentTimeMillis() );
 		System.out.println("\t\t HIER IST DER TEST [[{}******=======******{}]]");
-		Assert.assertTrue( System.currentTimeMillis() > 0 );
+		Assert.assertTrue( System.currentTimeMillis() < 0 );
 	}
 	
 }
