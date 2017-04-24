@@ -6,6 +6,7 @@
     <test name="Examples">
         <classes>
             <class name="jenkins.plugins.testlink.examples.TestCurrentTime"></class>
+            <class name="jenkins.plugins.testlink.examples.TestCurrentTime2"></class>
            </classes>
     </test>
  
