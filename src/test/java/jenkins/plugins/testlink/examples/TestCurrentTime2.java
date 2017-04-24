@@ -40,6 +40,12 @@ public class TestCurrentTime2
 	{
 		Assert.assertNotNull( System.currentTimeMillis() );
 		System.out.println("\t\t HIER IST DER TEST [[{}******=======******{}]]");
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		Assert.assertTrue( System.currentTimeMillis() > 0 );
 	}
 	
