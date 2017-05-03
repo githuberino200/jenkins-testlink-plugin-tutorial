@@ -38,8 +38,8 @@ public class TestCurrentTime2
 	@Test
 	public void testCurrentTime() 
 	{
-		Assert.assertNotNull( System.currentTimeMillis() );
-		System.out.println("\t\t HIER IST DER TEST 2 [[{}******=======******{}]]");
+		Assert.assertNotNull( 0 );
+		System.out.println("\t\t HIER IST DER TEST 2 der Fehlschlagen soll [[{}******=======******{}]]");
 		try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
