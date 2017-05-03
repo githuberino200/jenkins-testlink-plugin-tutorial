@@ -46,7 +46,7 @@ public class TestCurrentTime2
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		Assert.assertTrue( System.currentTimeMillis() > 0 );
+		Assert.assertTrue( System.currentTimeMillis() < 0 );
 	}
 	
 }
