@@ -39,7 +39,7 @@ public class TestCurrentTime2
 	public void testCurrentTime() 
 	{
 		Assert.assertNotNull( System.currentTimeMillis() );
-		System.out.println("\t\t HIER IST DER TEST [[{}******=======******{}]]");
+		System.out.println("\t\t HIER IST DER TEST 2 [[{}******=======******{}]]");
 		try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
